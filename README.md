@@ -1,5 +1,8 @@
 # Crop-Disease-Prediction
 Crop disease prediction is a crucial application of deep learning in the field of agriculture. With the use of Convolutional Neural Networks (CNNs) and other deep learning models, it is possible to achieve high accuracy rates in detecting and classifying crop diseases. By analyzing images of plant leaves, these models can identify early signs of diseases and help farmers take preventive measures.
+
+
+
 import numpy as np
 import os
 import tensorflow as tf
